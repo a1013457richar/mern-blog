@@ -1,7 +1,7 @@
 # MERN Estate - Real Estate Application
 
 ## Demo Web Sites
-Websites Link:[[[https://mern-vite-new.onrender.com/](https://mern-blog-webs.onrender.com/)](https://mern-blog-webs.onrender.com/)](https://mern-blog-webs.onrender.com/)
+Websites Link:[(https://mern-blog-webs.onrender.com/)](https://mern-blog-webs.onrender.com/)
 
 <a href="https://mern-vite-new.onrender.com/" style="cursor: pointer;">
     <img src="https://github.com/a1013457richar/vite_mern/blob/main/1.png" alt="MERN Estate">

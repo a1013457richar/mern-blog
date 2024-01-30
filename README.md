@@ -1,4 +1,4 @@
-# MERN Estate - Real Estate Application
+# MERN Blog
 
 ## Demo Web Sites
 Websites Link:[(https://mern-blog-webs.onrender.com/)](https://mern-blog-webs.onrender.com/)
